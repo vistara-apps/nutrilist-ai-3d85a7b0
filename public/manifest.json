@@ -1,0 +1,14 @@
+{
+  "name": "NutriList AI",
+  "description": "NutriList AI is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://3d85a7b0-7046-49cf-ae05-9eae757e833e.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "NutriList AI",
+      "description": "NutriList AI is a Base Mini App built with Zara.",
+      "url": "https://3d85a7b0-7046-49cf-ae05-9eae757e833e.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
