@@ -4,7 +4,7 @@
 import OpenAI from 'openai'
 
 const openai = new OpenAI({
-  apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY || import.meta?.env?.OPENAI_API_KEY || process?.env?.OPENAI_API_KEY,
+  apiKey: process.env.NEXT_PUBLIC_OPENAI_API_KEY,
   baseURL: "https://openrouter.ai/api/v1",
   dangerouslyAllowBrowser: true,
 })
